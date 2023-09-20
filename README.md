@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandanug
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning AI/ML
 
 <!---
 anandanug/anandanug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
